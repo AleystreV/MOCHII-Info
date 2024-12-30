@@ -48,7 +48,7 @@ with tab2:
         st.subheader("2030")
         st.markdown("- CS education integrated in the Philippine basic education curriculum, using MOCHII educational kits to bridge the digital divide")
         st.subheader("2035")
-        st.markdown("- MOCHII K-12 curriculum completed")
+        st.markdown("- MOCHII K-12 curriculum completed and implemented")
         st.subheader("2040")
         st.markdown("- Digitally skilled graduates\n- Increase in Computer Science graduates\n- Improved PISA scores\n- A generation of skilled social innovators")
         st.markdown('''

@@ -44,7 +44,7 @@ with tab2:
         st.subheader("2024")
         st.markdown("- Prototype of MOCHII BALL completed\n- MOCHII BALL pilot in progress")
         st.subheader("2025")
-        st.markdown("- Prototype of MOCHII PACK for high school students completed\n- MOCHII BALL pilot in progress")
+        st.markdown("- Prototype of MOCHII PACK for high school students completed\n- MOCHII PACK pilot in progress")
         st.subheader("2030")
         st.markdown("- CS education integrated in the Philippine basic education curriculum, using MOCHII educational kits to bridge the digital divide")
         st.subheader("2035")

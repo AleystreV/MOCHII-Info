@@ -71,6 +71,4 @@ with tab5:
     st.subheader("Graphics")
     st.markdown("Graphics created using assets from Canva.")
     st.subheader("Research")
-    st.markdown("- https://www.deped.gov.ph/wp-content/uploads/2022/04/DepEd-Databits-Functional-Computers-and-Internet-Connectivity-4.pdf")
-    st.markdown("- https://burning-glass.com/research/coding-skills/")
-    st.markdown("- https://www.philstar.com/headlines/2023/08/16/2288980/over-28-million-students-expected-school-year")
+    st.markdown("- https://www.deped.gov.ph/wp-content/uploads/2022/04/DepEd-Databits-Functional-Computers-and-Internet-Connectivity-4.pdf\n- https://burning-glass.com/research/coding-skills/\n- https://www.philstar.com/headlines/2023/08/16/2288980/over-28-million-students-expected-school-year")
